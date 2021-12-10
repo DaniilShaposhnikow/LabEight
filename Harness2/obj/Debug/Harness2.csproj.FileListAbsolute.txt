@@ -1,0 +1,7 @@
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\WpfApp2\Harness2\bin\Debug\Harness2.exe.config
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\WpfApp2\Harness2\bin\Debug\Harness2.exe
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\WpfApp2\Harness2\bin\Debug\Harness2.pdb
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\WpfApp2\Harness2\obj\Debug\Harness2.csprojAssemblyReference.cache
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\WpfApp2\Harness2\obj\Debug\Harness2.csproj.CoreCompileInputs.cache
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\WpfApp2\Harness2\obj\Debug\Harness2.exe
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\WpfApp2\Harness2\obj\Debug\Harness2.pdb
